@@ -112,7 +112,7 @@ weight = "900"
 [theme]
 base = "dark"
 primaryColor = "#009CDE"
-backgroundColor = "#3F9C35"
+backgroundColor = "#2a2a2a"
 secondaryBackgroundColor = "#888B8D"
 codeBackgroundColor = "#121212"
 textColor = "#ffffff"
