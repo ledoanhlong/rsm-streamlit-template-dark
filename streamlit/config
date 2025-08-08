@@ -111,12 +111,12 @@ weight = "900"
 
 [theme]
 base = "dark"
-primaryColor = "#1ed760"
-backgroundColor = "#2a2a2a"
-secondaryBackgroundColor = "#121212"
+primaryColor = "#009CDE"
+backgroundColor = "#3F9C35"
+secondaryBackgroundColor = "#888B8D"
 codeBackgroundColor = "#121212"
 textColor = "#ffffff"
-linkColor = "#1ed760"
+linkColor = "#3F9C35"
 borderColor = "#7c7c7c"
 showWidgetBorder = true
 baseRadius = "0.3rem"
@@ -124,7 +124,7 @@ buttonRadius = "full"
 font = "Poppins"
 headingFontWeights = [600, 500, 500, 500, 500, 500]
 headingFontSizes = ["3rem", "2.5rem", "2.25rem", "2rem", "1.5rem"]
-chartCategoricalColors = ["#ffc862", "#2d46b9", "#b49bc8"]
+chartCategoricalColors = ["#009CDE", "#3F9C35", "#888B8D"]
 
 [theme.sidebar]
 backgroundColor = "#121212"
