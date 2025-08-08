@@ -18,8 +18,9 @@ def play_scale(rate):
 st.header("Media elements")
 
 cols = st.columns(3)
-cols[0].image("streamlit/RSM_Standard_Logo_RGB No Background.png", use_container_width=True, caption="Streamlit logo")
+cols[0].image(".streamlit/RSM_Standard_Logo_RGB No Background.png", use_container_width=True, caption="Streamlit logo")
 st.write("Play a scale")
 st.audio(play_scale(44100), sample_rate=44100)
 st.container(border=True).video("https://s3-us-west-2.amazonaws.com/assets.streamlit.io/videos/hero-video.mp4", autoplay=True)
+
 
